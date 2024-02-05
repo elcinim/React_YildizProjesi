@@ -2,7 +2,9 @@
 
 Live : https://cool-cuchufli-172c7b.netlify.app/
 
-Bu uygulama, patika.dev FMSS Bilişim Frontend Practicum final ödevidir.
+Bu uygulama,2024 Kırklareli Üniversitesi İleri Web Final  ödevidir.
+
+
 
 Uygulamayı çalıştırmak için, `git clone https://github.com/astopaal/starships-app` ile klonladıktan sonra, proje dizininde `npm install` komutunu kullanarak bağlılıkları kurun.
 
